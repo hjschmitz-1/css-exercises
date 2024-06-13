@@ -1,0 +1,21 @@
+/* style.css */
+
+.odd-div {
+    background: pink;
+    font-family: "Verdana", "DejaVu", "Sans", sans-serif;
+}
+
+.two-div {
+    color: blue;
+    font-size: 36px;
+}
+
+.three-div {
+    font-size: 24px;
+}
+
+.four-div {
+    background: rgb(131, 212, 131);
+    font-size: 24px;
+    font-weight: bold;
+}
